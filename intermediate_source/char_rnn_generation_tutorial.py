@@ -1,13 +1,12 @@
 # -*- coding: utf-8 -*-
 """
-NLP From Scratch: Generating Names with a Character-Level RNN
+기초에서 시작하는 자연어처리: 글자-단위 RNN를 가지고 이름 생성하기
 *************************************************************
-**Author**: `Sean Robertson <https://github.com/spro>`_
+**저자**: `Sean Robertson <https://github.com/spro>`_
 
-This is our second of three tutorials on "NLP From Scratch".
-In the `first tutorial </intermediate/char_rnn_classification_tutorial>`
-we used a RNN to classify names into their language of origin. This time
-we'll turn around and generate names from languages.
+이번 튜토리얼은 "기초에서 시작하는 자연어처리" 3개의 튜토리얼 중 2번째 튜토리얼입니다.
+`1번째 튜토리얼 </intermediate/char_rnn_classification_tutorial>`에서 이름들을 언어로 분류하기 위해 RNN을 사용했습니다.
+이번에는 반대로 언어로부터 이름을 생성하고자 합니다.
 
 ::
 
