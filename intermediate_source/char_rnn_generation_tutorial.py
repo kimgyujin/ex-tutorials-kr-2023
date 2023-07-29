@@ -5,7 +5,7 @@
 **저자**: `Sean Robertson <https://github.com/spro>`_
 
 이번 튜토리얼은 "기초에서 시작하는 자연어처리" 3개의 튜토리얼 중 2번째 튜토리얼입니다.
-`1번째 튜토리얼 </intermediate/char_rnn_classification_tutorial>`에서 이름들을 언어로 분류하기 위해 RNN을 사용했습니다.
+`1번째 튜토리얼 </intermediate/char_rnn_classification_tutorial>`에서 이름을 언어로 분류하기 위해 RNN을 사용했습니다.
 이번에는 반대로 언어로부터 이름을 생성하고자 합니다.
 
 ::
